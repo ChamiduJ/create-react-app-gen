@@ -1,2 +1,4 @@
 # create-react-app-gen
-create-react-app compatible generator for react, create component, reducers, actions, etc.
+
+A `create-react-app` compatible generator for react.<br />
+You can create components, reducers, actions, with unit tests files.
